@@ -46,3 +46,19 @@ There are several ways to do this:
 | **Persistence**  | Permanent    | Can expire or be session-based | Deleted on tab close |
 | **Controlled By** | Browser      | Server & Client | Client only |
 | **Use Case**     | Storing long-term data like user settings | Authentication, user preferences | Temporary storage per session |
+
+![image](https://github.com/user-attachments/assets/939c36c3-f121-4124-a868-1518ce76a38d)
+![image](https://github.com/user-attachments/assets/b1d6191c-7d82-483e-b2da-8ebbe578b8b4)
+![image](https://github.com/user-attachments/assets/c78cfcb6-9ba7-49be-817d-f2f5aaee5c05)
+![image](https://github.com/user-attachments/assets/6687bf6e-68ad-4035-870f-7416b3e6877d)
+![image](https://github.com/user-attachments/assets/6f4e4a7a-b770-4d8a-824e-544a9c176860)
+![image](https://github.com/user-attachments/assets/b19752fc-5092-4d07-afcb-546ae3ca1092)
+![image](https://github.com/user-attachments/assets/0a3c26a3-3a34-4a4c-ab63-07ae0dc08a0c)
+![image](https://github.com/user-attachments/assets/55f9d536-9fea-48a0-9f0b-2e5fa3e258ec)
+![image](https://github.com/user-attachments/assets/0f8c7550-dd85-42cf-87a6-6ed15ff37bee)
+
+
+
+
+
+
